@@ -1,4 +1,4 @@
-:c94bfeb47dd5de7e9c54d23a7eb9958bc0f16855
+:69954981286d90e1c51faf8a48f16a5a0a6f482b
 snippets/Design_10_10_ThreeStateButton.design:d0facffb4aabfd2ae15f100509fb37c5f8c75720
 snippets/ActorEvents_0.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 snippets/ActorEvents_20.design:0db04204f040699b22cd355fdfe64056a9e3fd8e
@@ -36,19 +36,19 @@ resources/18-0@4x.png:8baaa870f030ca206dd904910ecdcda4e6fb364a
 resources/23-3.png:fc14c034f6e69e8ac2f283006750439d80fd08d1
 resources/21-2@4x.png:4b1480eced74197e8621426d496722675c16152a
 scenes/2.scn:e01f2ba486866fb3afd7c8d1fb697eb823166067
-snippets:ab4a50cf10e184818adc152511a9083090091edd
+snippets:c785321341faae4104965379de919ef120d476e6
 resources/5@1.5x.fnt:7b302e595b3434591fc9666348bf105555ecac07
 resources/12-1@4x.png:b5e3dde3aac63c876f5a0aa6e3a1974b94aaaadc
 resources/10-1@1.5x.png:ab08b06e7db8054cd789657e816c4e5f1e1b1ce8
 scenes/2.xml:ccf2965cdc45e9b0689a68d6ccffacdc1acf6063
 resources/5@2x.fnt:b9cbbda5de5b5a004d0797a7c285a02df74cd532
 linked:fff040396c372ebf58ca70f171f865c9d4f3b020
-game.xml:f61432984a84f51f192d87b94e1a5d20f9efb06d
+game.xml:834e4ecb5128b5b8a1bcd67c8ba09d663a23360a
 resources/16-0@4x.png:3a1ba8515f7b2b889e13b9bc2dfed52b4625a7db
 resources/14-0@1.5x.png:e30b503437e2ae7c9fb77870cff0b1476a30d9c4
 resources/5@4x.png:03fef3fa08f10f5d6f4cd9a6a7d1f38934435049
 resources/1-1.png:f0333ce492997d6a5ca03a3092bee8b39ecd38af
-game.xml.bak:834e4ecb5128b5b8a1bcd67c8ba09d663a23360a
+game.xml.bak:f61432984a84f51f192d87b94e1a5d20f9efb06d
 inner-joystick@4x.png:cd191b9d99eb85ad40b5b160d3f5177493e6da22
 snippets/Design_13_13_Movement.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 resources/23-0@1.5x.png:bee90269a48af88175897cccea37d913c095674d
@@ -74,8 +74,8 @@ resources/21-1@1.5x.png:8abe0e79316bdedda6837798d441923efe204f4f
 snippets/Design_9_9_upgradebuttons.design:ef4a4bb28c8576ff52b46402fd26d3cbad916ee8
 resources/21-0@1.5x.png:ed5081f7d82c027f2676c40935bf746e56336464
 favorites.xml:6e2164512cf0d4d8e891006bb747d0d317c0f17b
-scenes/scenes.xml:7f909dc380d71e561f690be6cefd88f2425c09c0
-scenes:1b7f63f1250bd29070c25810a09398afaaeda569
+scenes/scenes.xml:6c00ef39d047e0061bc86d59f7a89ab22da1a39f
+scenes:530e2080a53726bdd64909213af1f0eaa716f775
 resources/2-0.png:16cae7bcfd852e364088f9e119361854cc300f03
 .gitignore:4294715de7f94cc6dea5b9f6a50627fb5f6e733e
 resources/23-1@1.5x.png:aeb2be29f47629f5a893fe639e51dc44b5199bea
@@ -151,7 +151,7 @@ outer-joystick.png:02ee47b2aa4f63f7be2074f6aaa7592f1a14d9f4
 resources/21-3@1.5x.png:a775868d05d779718f80561f996982f06fb2f672
 resources/27-0@4x.png:6a7bc614380298cc871d561729eaaa7edfbfb47a
 resources/23-3@2x.png:20f18e3ad4eb07ef13f6e15b929a37d0aa4294d0
-snippets/list.xml:ccbb2d04d73dc20a6497f43d7f8eaff61f5e5a1f
+snippets/list.xml:6900b024d7f0f39137892975cda1da090a0716bd
 resources/33-0@2x.png:909d61a5acbc5a0b75ddc42e1595576a80c9dcaf
 master-icon.png:f0066ac5b06a9d09fede8f587d11637366b697d0
 resources/23-1@4x.png:a6d640f565c258e43ebddbf7d231208b8790d482
@@ -176,7 +176,7 @@ resources/5.png:8fbf066752c1637bb7480777e412c4dd83466faf
 resources/6.fnt:4ec0fdd96670f1d418541bfad4aca265e3e21ead
 resources/10-1.png:1a87aff4625a538d5e762b1654b5de5e0689283b
 snippets/ActorEvents_13.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
-snippets/list.xml.bak:6900b024d7f0f39137892975cda1da090a0716bd
+snippets/list.xml.bak:ccbb2d04d73dc20a6497f43d7f8eaff61f5e5a1f
 snippets/SceneEvents_1.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 snippets/Design_2_2_ThreeStateButton.design:7907a282125480e06660ba5beeb69db27a286317
 resources/21-0@4x.png:219a81c7150aa1ebbf5cfc141237fa2aff2045e8
