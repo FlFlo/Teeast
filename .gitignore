@@ -1,6 +1,24 @@
-# Generic
+# Ignore user-specific and temp data
+*.log
+*.tmp
+*.bak
+*.swp
 .DS_Store
+Thumbs.db
 
-# Generated files. These should always be ignored.
-.cache/**
-**/*.bak
+# Ignore Stencyl-generated build output
+export/
+previews/
+games-generated/
+games-generated-temp/
+workspace/
+
+# Ignore any system-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore backup/old versions
+-old/
+backup/
+*.old
