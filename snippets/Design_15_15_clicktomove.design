@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups format="1">
+    <group eventID="1" id="0">
+        <event-mouse-enter-exit-region comment="false" x="36" y="34">
+            <group eventID="1" id="-1">
+                <set-game-val-7 comment="false" x="0" y="0">
+                    <mousexy comment="false" id="0" x="0" y="0">
+                        <int id="0" val="0"/>
+                        <int id="1" val="0"/>
+                    </mousexy>
+                </set-game-val-7>
+                <set-game-val-6 comment="false" x="0" y="0">
+                    <true comment="false" id="0" x="0" y="0"/>
+                </set-game-val-6>
+            </group>
+            <get-val-15-1 comment="false" id="0" x="0" y="0"/>
+            <int id="1" val="2"/>
+        </event-mouse-enter-exit-region>
+    </group>
+</groups>

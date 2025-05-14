@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene
+    depth="1"
+    desc=""
+    eventsnippetid="0"
+    extheight="608"
+    extwidth="1088"
+    extx="-64"
+    exty="-32"
+    format="4.0.1"
+    gravx="-0.0"
+    gravy="0.0"
+    height="544"
+    id="0"
+    name="game"
+    revision=""
+    savecount="0"
+    tiled="1"
+    tileh="32"
+    tilew="32"
+    type="standard"
+    width="992">
+    <layers>
+        <color-bg blue="255" green="255" red="255"/>
+        <background
+            blendMode="normal"
+            customScrollFactor="false"
+            id="1"
+            locked="true"
+            name="mana_valley"
+            opacity="100"
+            order="1"
+            rid="2"
+            scrollFactorX="1.0"
+            scrollFactorY="1.0"
+            visible="true"/>
+        <layer
+            blendMode="normal"
+            color="51,51,51"
+            id="0"
+            locked="false"
+            name="buttons"
+            opacity="100"
+            order="0"
+            scrollFactorX="1.0"
+            scrollFactorY="1.0"
+            visible="true"/>
+    </layers>
+    <joints/>
+    <regions/>
+    <terrainRegions/>
+    <actors>
+        <actor
+            a="0.0"
+            aid="3"
+            c="false"
+            group="3"
+            id="3"
+            name="Flask 3"
+            order="0"
+            sx="0.32"
+            sy="0.32"
+            x="6"
+            y="7"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="6"
+            c="false"
+            group="3"
+            id="0"
+            name="1 Mana Well 6"
+            order="1"
+            sx="1.0"
+            sy="1.0"
+            x="46"
+            y="70"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="7"
+            c="false"
+            group="3"
+            id="9"
+            name="2 Advanced Scorcery 7"
+            order="2"
+            sx="1.0"
+            sy="1.0"
+            x="45"
+            y="180"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="8"
+            c="false"
+            group="3"
+            id="13"
+            name="3 Phoenix Feathers 8"
+            order="3"
+            sx="1.0"
+            sy="1.0"
+            x="46"
+            y="295"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="9"
+            c="false"
+            group="3"
+            id="11"
+            name="4 Tax Evasion 9"
+            order="4"
+            sx="1.0"
+            sy="1.0"
+            x="46"
+            y="413"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="10"
+            c="false"
+            group="3"
+            id="15"
+            name="5 Ripped Schematics 10"
+            order="5"
+            sx="1.0"
+            sy="1.0"
+            x="256"
+            y="70"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="11"
+            c="false"
+            group="3"
+            id="17"
+            name="6 Mysthical Potion 11"
+            order="6"
+            sx="1.0"
+            sy="1.0"
+            x="256"
+            y="180"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="13"
+            c="false"
+            group="3"
+            id="7"
+            name="Derlegg 13"
+            order="7"
+            sx="1.0"
+            sy="1.0"
+            x="878"
+            y="46"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="14"
+            c="true"
+            group="3"
+            id="22"
+            name="portal 14"
+            order="8"
+            sx="1.0"
+            sy="1.0"
+            x="899"
+            y="245"
+            z="0">
+            <snippets>
+                <s enabled="true" id="17"/>
+                <s enabled="true" id="19">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="Idle"/>
+                    <prop id="4" list="0" val="Clicked"/>
+                    <prop id="9" list="0" val="1"/>
+                    <prop id="10" list="0" val="0.5"/>
+                    <prop id="11" list="0" val="0.5"/>
+                    <prop id="12" list="0" val="Fade"/>
+                    <prop id="13" list="0" val="false"/>
+                </s>
+            </snippets>
+        </actor>
+    </actors>
+    <snippets/>
+    <terrain/>
+    <atlases members="" retainAtlases="true"/>
+</scene>

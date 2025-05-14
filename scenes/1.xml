@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<scene
+    depth="1"
+    desc=""
+    eventsnippetid="11"
+    extheight="704"
+    extwidth="3264"
+    extx="-32"
+    exty="-32"
+    format="4.0.1"
+    gravx="-0.0"
+    gravy="1.0"
+    height="640"
+    id="1"
+    name="level 1"
+    revision=""
+    savecount="0"
+    tiled="1"
+    tileh="32"
+    tilew="32"
+    type="standard"
+    width="3200">
+    <layers>
+        <grad-bg
+            b1="255"
+            b2="255"
+            g1="255"
+            g2="204"
+            r1="204"
+            r2="0"/>
+        <layer
+            blendMode="normal"
+            color="100,168,234"
+            id="0"
+            locked="false"
+            name="Layer 0"
+            opacity="100"
+            order="0"
+            scrollFactorX="1.0"
+            scrollFactorY="1.0"
+            visible="true"/>
+    </layers>
+    <joints/>
+    <regions>
+        <region
+            b="64"
+            g="64"
+            h="32"
+            id="0"
+            name="Floor"
+            pts="4,0.0,0.0,990.0,0.0,990.0,32.0,0.0,32.0"
+            r="64"
+            type="box"
+            w="990"
+            x="162"
+            y="465"/>
+    </regions>
+    <terrainRegions/>
+    <actors>
+        <actor
+            a="0.0"
+            aid="1"
+            c="true"
+            group="3"
+            id="20"
+            name="player 1"
+            order="0"
+            sx="1.0"
+            sy="1.0"
+            x="522"
+            y="379"
+            z="0">
+            <snippets>
+                <s enabled="true" id="16">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="1.0"/>
+                </s>
+                <s enabled="true" id="12"/>
+            </snippets>
+        </actor>
+        <actor
+            a="0.0"
+            aid="3"
+            c="true"
+            group="3"
+            id="22"
+            name="portal 3"
+            order="1"
+            sx="1.0"
+            sy="1.0"
+            x="1103"
+            y="430"
+            z="0">
+            <snippets>
+                <s enabled="true" id="17"/>
+                <s enabled="true" id="19">
+                    <prop id="2147483647" list="0" val="thisactor"/>
+                    <prop id="1" list="0" val="Idle"/>
+                    <prop id="4" list="0" val="Clicked"/>
+                    <prop id="9" list="0" val="0"/>
+                    <prop id="10" list="0" val="0.5"/>
+                    <prop id="11" list="0" val="0.5"/>
+                    <prop id="12" list="0" val="Fade"/>
+                    <prop id="13" list="0" val="true"/>
+                </s>
+            </snippets>
+        </actor>
+        <actor
+            a="0.0"
+            aid="4"
+            c="false"
+            group="3"
+            id="26"
+            name="coal node 4"
+            order="2"
+            sx="1.0"
+            sy="1.0"
+            x="898"
+            y="435"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="5"
+            c="false"
+            group="3"
+            id="26"
+            name="coal node 5"
+            order="3"
+            sx="1.0"
+            sy="1.0"
+            x="700"
+            y="435"
+            z="0"/>
+        <actor
+            a="0.0"
+            aid="6"
+            c="false"
+            group="3"
+            id="26"
+            name="coal node 6"
+            order="4"
+            sx="1.0"
+            sy="1.0"
+            x="801"
+            y="435"
+            z="0"/>
+    </actors>
+    <snippets>
+        <s enabled="true" id="15">
+            <prop id="1" list="0" val="0"/>
+        </s>
+    </snippets>
+    <terrain>
+        <p pts="4,0.0,32.0,0.0,0.0,928.0,0.0,928.0,32.0" x="192.0" y="512.0"/>
+        <p pts="4,992.0,96.0,992.0,0.0,0.0,0.0,0.0,96.0" x="160.0" y="480.0"/>
+    </terrain>
+    <atlases members="" retainAtlases="true"/>
+</scene>

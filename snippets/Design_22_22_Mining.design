@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<groups format="1">
+    <group eventID="1" id="0">
+        <event-mouse-enter-exit-actor comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <set-game-val-6 comment="false" x="0" y="0">
+                    <true comment="false" id="0" x="0" y="0"/>
+                </set-game-val-6>
+                <set-game-val-9 comment="false" x="0" y="0">
+                    <true comment="false" id="0" x="0" y="0"/>
+                </set-game-val-9>
+                <set-game-val-7 comment="false" x="0" y="0">
+                    <mousexy comment="false" id="0" x="0" y="0">
+                        <int id="0" val="1"/>
+                        <int id="1" val="0"/>
+                    </mousexy>
+                </set-game-val-7>
+            </group>
+            <ACTOR eid="this" id="0"/>
+            <int id="1" val="2"/>
+        </event-mouse-enter-exit-actor>
+    </group>
+    <group eventID="2" id="0">
+        <event-collide-typetotype comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <if comment="false" x="0" y="0">
+                    <group eventID="2" id="-1">
+                        <set-game-val-11 comment="false" x="0" y="0">
+                            <true comment="false" id="0" x="0" y="0"/>
+                        </set-game-val-11>
+                    </group>
+                    <get-game-val-9 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+            <actortype eid="20" id="0"/>
+            <actortype eid="26" id="1"/>
+        </event-collide-typetotype>
+    </group>
+    <group eventID="3" id="0">
+        <event-periodic comment="false" x="15" y="15">
+            <group eventID="3" id="-1">
+                <if comment="false" x="0" y="0">
+                    <group eventID="3" id="-1">
+                        <create-actor3 comment="false" x="0" y="0">
+                            <actortype eid="32" id="0"/>
+                            <plus comment="false" id="1" x="0" y="0">
+                                <get-xy comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="2"/>
+                                </get-xy>
+                                <randint comment="false" id="1" x="0" y="0">
+                                    <int id="0" val="-10"/>
+                                    <int id="1" val="10"/>
+                                </randint>
+                            </plus>
+                            <get-xy comment="false" id="2" x="0" y="0">
+                                <ACTOR eid="this" id="0"/>
+                                <int id="1" val="1"/>
+                            </get-xy>
+                            <int id="3" val="0"/>
+                        </create-actor3>
+                    </group>
+                    <and comment="false" id="0" x="0" y="0">
+                        <more comment="false" id="0" x="0" y="0">
+                            <random comment="false" id="0" x="0" y="0"/>
+                            <int id="1" val="0.7"/>
+                        </more>
+                        <get-game-val-11 comment="false" id="1" x="0" y="0"/>
+                    </and>
+                </if>
+            </group>
+            <div comment="false" id="0" x="0" y="0">
+                <int id="0" val="1"/>
+                <get-game-val-10 comment="false" id="1" x="0" y="0"/>
+            </div>
+        </event-periodic>
+    </group>
+</groups>
