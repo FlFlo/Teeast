@@ -1,4 +1,4 @@
-:69954981286d90e1c51faf8a48f16a5a0a6f482b
+:ee045d4efc4ec32bbdff368bb2123026cc664e51
 snippets/Design_10_10_ThreeStateButton.design:d0facffb4aabfd2ae15f100509fb37c5f8c75720
 snippets/ActorEvents_0.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 snippets/ActorEvents_20.design:0db04204f040699b22cd355fdfe64056a9e3fd8e
@@ -36,7 +36,7 @@ resources/18-0@4x.png:8baaa870f030ca206dd904910ecdcda4e6fb364a
 resources/23-3.png:fc14c034f6e69e8ac2f283006750439d80fd08d1
 resources/21-2@4x.png:4b1480eced74197e8621426d496722675c16152a
 scenes/2.scn:e01f2ba486866fb3afd7c8d1fb697eb823166067
-snippets:c785321341faae4104965379de919ef120d476e6
+snippets:2ad579b2933e2e2ccd4cc2f4a39a605c64da00ba
 resources/5@1.5x.fnt:7b302e595b3434591fc9666348bf105555ecac07
 resources/12-1@4x.png:b5e3dde3aac63c876f5a0aa6e3a1974b94aaaadc
 resources/10-1@1.5x.png:ab08b06e7db8054cd789657e816c4e5f1e1b1ce8
@@ -48,7 +48,7 @@ resources/16-0@4x.png:3a1ba8515f7b2b889e13b9bc2dfed52b4625a7db
 resources/14-0@1.5x.png:e30b503437e2ae7c9fb77870cff0b1476a30d9c4
 resources/5@4x.png:03fef3fa08f10f5d6f4cd9a6a7d1f38934435049
 resources/1-1.png:f0333ce492997d6a5ca03a3092bee8b39ecd38af
-game.xml.bak:f61432984a84f51f192d87b94e1a5d20f9efb06d
+game.xml.bak:834e4ecb5128b5b8a1bcd67c8ba09d663a23360a
 inner-joystick@4x.png:cd191b9d99eb85ad40b5b160d3f5177493e6da22
 snippets/Design_13_13_Movement.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 resources/23-0@1.5x.png:bee90269a48af88175897cccea37d913c095674d
@@ -176,7 +176,7 @@ resources/5.png:8fbf066752c1637bb7480777e412c4dd83466faf
 resources/6.fnt:4ec0fdd96670f1d418541bfad4aca265e3e21ead
 resources/10-1.png:1a87aff4625a538d5e762b1654b5de5e0689283b
 snippets/ActorEvents_13.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
-snippets/list.xml.bak:ccbb2d04d73dc20a6497f43d7f8eaff61f5e5a1f
+snippets/list.xml.bak:6900b024d7f0f39137892975cda1da090a0716bd
 snippets/SceneEvents_1.design:b5c14f4d3539307ff97a641c90e8d1d5e050962a
 snippets/Design_2_2_ThreeStateButton.design:7907a282125480e06660ba5beeb69db27a286317
 resources/21-0@4x.png:219a81c7150aa1ebbf5cfc141237fa2aff2045e8
