@@ -3,7 +3,7 @@
 *.tmp
 *.bak
 *.swp
-*.chache
+*.cache
 .DS_Store
 Thumbs.db
 
