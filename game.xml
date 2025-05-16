@@ -35,7 +35,7 @@
     cws-version="1.0"
     defaultFramerate="60"
     defaultProjectScale="1x"
-    defaultSceneID="1"
+    defaultSceneID="0"
     desc=""
     desktopScale="3x"
     disableBackButton="false"
@@ -153,20 +153,7 @@
         <scale enabled="false" name="3x"/>
         <scale enabled="true" name="4x"/>
     </androidScales>
-    <folders>
-        <group desc="" id="0" name="Upgrades" type="actortype">
-            <r id="0"/>
-            <r id="9"/>
-            <r id="11"/>
-            <r id="13"/>
-            <r id="15"/>
-            <r id="17"/>
-        </group>
-        <group desc="" id="1" name="Mining" type="actortype">
-            <r id="26"/>
-            <r id="32"/>
-        </group>
-    </folders>
+    <folders/>
     <packs/>
     <groups/>
     <cgroups>
@@ -235,7 +222,7 @@
             desc=""
             dirty="true"
             id="0"
-            members="0,2,3,6,7,9,11,13,15,17,19,20,22,26,32,34,36"
+            members=""
             name="Main Atlas"
             pvr="false"
             resize="0"
