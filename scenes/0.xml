@@ -3,14 +3,14 @@
     depth="1"
     desc=""
     eventsnippetid="0"
-    extheight="1664"
-    extwidth="1664"
+    extheight="608"
+    extwidth="1056"
     extx="-32"
     exty="-32"
     format="4.0.1"
     gravx="-0.0"
     gravy="0.0"
-    height="1600"
+    height="544"
     id="0"
     name="Kitchen"
     revision=""
@@ -19,7 +19,7 @@
     tileh="32"
     tilew="32"
     type="standard"
-    width="1600">
+    width="992">
     <layers>
         <color-bg blue="255" green="255" red="255"/>
         <layer
@@ -37,21 +37,7 @@
     <joints/>
     <regions/>
     <terrainRegions/>
-    <actors>
-        <actor
-            a="0.0"
-            aid="1"
-            c="false"
-            group="3"
-            id="1"
-            name="Player 1"
-            order="0"
-            sx="1.0"
-            sy="1.0"
-            x="662"
-            y="210"
-            z="0"/>
-    </actors>
+    <actors/>
     <snippets/>
     <terrain/>
     <atlases members="" retainAtlases="true"/>
