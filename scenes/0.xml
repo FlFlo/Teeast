@@ -37,7 +37,21 @@
     <joints/>
     <regions/>
     <terrainRegions/>
-    <actors/>
+    <actors>
+        <actor
+            a="0.0"
+            aid="1"
+            c="false"
+            group="3"
+            id="0"
+            name="Cook 1"
+            order="0"
+            sx="1.0"
+            sy="1.0"
+            x="211"
+            y="146"
+            z="0"/>
+    </actors>
     <snippets/>
     <terrain/>
     <atlases members="" retainAtlases="true"/>

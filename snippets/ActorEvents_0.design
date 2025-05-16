@@ -1,2 +1,57 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<groups format="1"/>
+<groups format="1">
+    <group eventID="1" id="0">
+        <event-key-press-release comment="false" x="15" y="15">
+            <group eventID="1" id="-1">
+                <set-val-1-1 comment="false" x="0" y="0">
+                    <true comment="false" id="0" x="0" y="0"/>
+                </set-val-1-1>
+            </group>
+            <control eid="0" id="0"/>
+            <int id="1" val="0"/>
+        </event-key-press-release>
+    </group>
+    <group eventID="1" id="1">
+        <while comment="false" x="75" y="251">
+            <group eventID="1" id="-1">
+                <set-xy comment="false" x="0" y="0">
+                    <ACTOR id="0"/>
+                    <int id="1" val="0"/>
+                    <plus comment="false" id="2" x="0" y="0">
+                        <get-xy comment="false" id="0" x="0" y="0">
+                            <ACTOR id="0"/>
+                            <int id="1" val="2"/>
+                        </get-xy>
+                        <int id="1" val="1"/>
+                    </plus>
+                </set-xy>
+            </group>
+            <get-val-1-1 comment="false" id="0" x="0" y="0"/>
+        </while>
+    </group>
+    <group eventID="2" id="0">
+        <step comment="false" x="15" y="15">
+            <group eventID="2" id="-1">
+                <if comment="false" x="0" y="0">
+                    <group eventID="2" id="-1">
+                        <set-xy comment="false" x="0" y="0">
+                            <ACTOR eid="this" id="0"/>
+                            <int id="1" val="0"/>
+                            <plus comment="false" id="2" x="0" y="0">
+                                <get-xy comment="false" id="0" x="0" y="0">
+                                    <ACTOR eid="this" id="0"/>
+                                    <int id="1" val="2"/>
+                                </get-xy>
+                                <int id="1" val="0.1"/>
+                            </plus>
+                        </set-xy>
+                        <set-val-1-1 comment="false" x="0" y="0">
+                            <false comment="false" id="0" x="0" y="0"/>
+                        </set-val-1-1>
+                    </group>
+                    <get-val-1-1 comment="false" id="0" x="0" y="0"/>
+                </if>
+            </group>
+        </step>
+    </group>
+</groups>

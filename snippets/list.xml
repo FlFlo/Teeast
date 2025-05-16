@@ -33,7 +33,32 @@
         package="scripts."
         shared="false"
         type="actor">
+        <boolean
+            default="false"
+            defaultValue="false"
+            desc=""
+            dropdown=""
+            fullname="moving up"
+            hidden="false"
+            id="1"
+            name="_movingup"
+            order="0"/>
         <blocks/>
-        <events/>
+        <events>
+            <event
+                displayName="Keyboard"
+                enabled="true"
+                id="1"
+                name="event-key-press-release"
+                order="1"
+                repeats="true"/>
+            <event
+                displayName="Updating"
+                enabled="true"
+                id="2"
+                name="step"
+                order="2"
+                repeats="true"/>
+        </events>
     </snippet>
 </pack>
