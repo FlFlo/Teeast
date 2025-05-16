@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<build-record
+    binFilePath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash\bin\sgeseg.swf"
+    binFolderPath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash\bin"
+    buildTime="1747380564618"
+    contentFolderPath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash\bin"
+    debug="true"
+    exportFolderPath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash"
+    haxeTemplateFolderPath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash\haxe"
+    hxcppDebugger="false"
+    hxmlFilePath="C:\Users\Florian\AppData\Roaming\Stencyl\stencylworks\games-generated\sgeseg\Export\flash\haxe\debug.hxml"
+    platform="flash"
+    publishing="false"
+    telemetry="false"/>
