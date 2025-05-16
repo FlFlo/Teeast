@@ -12,6 +12,7 @@ previews/
 games-generated/
 games-generated-temp/
 workspace/
+cache/
 
 # Ignore any system-specific files
 .idea/
