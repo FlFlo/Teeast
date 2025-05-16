@@ -3,6 +3,7 @@
 *.tmp
 *.bak
 *.swp
+*.chache
 .DS_Store
 Thumbs.db
 
@@ -12,7 +13,6 @@ previews/
 games-generated/
 games-generated-temp/
 workspace/
-cache/
 
 # Ignore any system-specific files
 .idea/
