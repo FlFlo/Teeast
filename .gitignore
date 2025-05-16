@@ -22,3 +22,16 @@ workspace/
 -old/
 backup/
 *.old
+
+# weird pergenerated joyticks
+inner-joystick.png
+inner-joystick@1.5x.png
+inner-joystick@2x.png
+inner-joystick@4x.png
+ipad-splash-sb.png
+iphone-splash-sb.png
+master-icon.png
+outer-joystick.png
+outer-joystick@1.5x.png
+outer-joystick@2x.png
+outer-joystick@4x.png
