@@ -222,7 +222,7 @@
             desc=""
             dirty="true"
             id="0"
-            members="0"
+            members="0,2"
             name="Main Atlas"
             pvr="false"
             resize="0"
